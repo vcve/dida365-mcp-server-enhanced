@@ -9,7 +9,7 @@
     },
     "files": [
         "dist"
-    ]
+    ],
     "scripts": {
         "build": "npx tsc",
         "postbuild": "chmod +x dist/*.js || true",
